@@ -1,0 +1,11 @@
+{
+    "out_dir": "./results/en/",
+    "init_weights": "",
+    "dataset_dir": "./datasets/RAVDESS",
+    "device": 0,
+    "title": "Confusin Matrix",
+    "overwrite": true,
+    "label_index": 7,
+    "epoch": 500,
+    "batch_size": 128
+}

@@ -1,0 +1,1 @@
+python ./tools/train.py --dataset_dir ./datasets/Xper_DES --label_index 7

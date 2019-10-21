@@ -1,0 +1,1 @@
+python ./tools/train.py --dataset_dir ./datasets/RAVDESS --label_index 7 --device 0 --result_path './results'

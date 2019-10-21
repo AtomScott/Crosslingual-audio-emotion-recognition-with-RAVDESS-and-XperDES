@@ -1,0 +1,3 @@
+#!/home/atom/nirasawa_HCG/maguro/bin/python3
+from numba.pycc import main
+main()

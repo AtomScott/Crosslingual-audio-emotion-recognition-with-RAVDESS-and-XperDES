@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ignore datasets
+datasets/RAVDESS
+datasets/Xper_DES
+datasets/Xper_DES_test

@@ -1,0 +1,11 @@
+{
+    "dataset_dir": "./datasets/Xper_DES",
+    "batch_size": 128,
+    "label_index": 0,
+    "overwrite": true,
+    "init_weights": "",
+    "title": "Confusin Matrix",
+    "device": 0,
+    "epoch": 500,
+    "out_dir": "./results/jp/"
+}

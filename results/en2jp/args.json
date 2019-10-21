@@ -1,0 +1,11 @@
+{
+    "dataset_dir": "./datasets/Xper_DES",
+    "init_weights": "./results/en/model_epoch-500",
+    "batch_size": 128,
+    "out_dir": "./results/en2jp/",
+    "epoch": 500,
+    "title": "Confusin Matrix",
+    "overwrite": true,
+    "label_index": 0,
+    "device": 0
+}

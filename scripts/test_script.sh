@@ -1,0 +1,1 @@
+python ./tools/evaluate.py --dataset_dir ./datasets/Xper_DES_test --label_index 0 --device 0 --out_dir ./results/en/ --init_weights  ./results/jp/model_epoch-200 --title 'RAVDESS Model'
